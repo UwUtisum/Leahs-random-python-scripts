@@ -1,0 +1,26 @@
+                      this script is purely for educational reasons only
+!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!
+            this program is basicaly malware so please do not abuse this script, 
+                               to those seeing this on github
+           i have removed cirten lines but the general functionality still works
+                 i have mesures in place so if my firebase link is leaked
+                             i can disable this script remotely 
+!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!
+-----------------------------------------------------------------------------------------
+Features:
+---------
+
+	- decodes a Firebase db url from a base 64 string and from the firebase db
+	it will get a youtube url and auto plays it while also getting another link 
+	and auto downloading and applying a new pc background onto the victims PC
+	
+	- Spits out victims PC info into the command line, this will be updated so it
+	will upload this data to firebase later down the line
+
+	- logs key strokes of the victims PC and outputs them into the command line
+
+	- TODO: add functionality via imgur so that the program takes a screenshot of
+	the victims pc,
+
+This is my first bit of code like this so plz ignore the dodgyness of the code i made 
+                                    this script to learn
